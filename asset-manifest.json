@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GymFitness/static/css/main.e9d86c0c.css",
+    "main.js": "/GymFitness/static/js/main.53885199.js",
+    "static/media/banner.png": "/GymFitness/static/media/banner.b44401dca3bdcde3e33d.png",
+    "static/media/about.png": "/GymFitness/static/media/about.bcb117776707a1a588dc.png",
+    "static/media/offer.png": "/GymFitness/static/media/offer.efe896e87366429a70b4.png",
+    "index.html": "/GymFitness/index.html",
+    "main.e9d86c0c.css.map": "/GymFitness/static/css/main.e9d86c0c.css.map",
+    "main.53885199.js.map": "/GymFitness/static/js/main.53885199.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9d86c0c.css",
+    "static/js/main.53885199.js"
+  ]
+}
